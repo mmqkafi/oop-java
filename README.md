@@ -3,7 +3,7 @@
 ## Concepts covered
 
 
-Polymorphisam
+Polymorphisam and 
 Inheritance
 Encapsulation
 Method Overriding
